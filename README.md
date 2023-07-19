@@ -14,14 +14,14 @@ A reusable template for python packages.
 ## Code Quality
 | Workflow | Description             | Status                                                                       |
 |----------|-------------------------|------------------------------------------------------------------------------|
-|Bandit|security checks|![Bandit](<repo_link>/actions/workflows/bandit.yaml/badge.svg)|
-|Black|code formatting|![Black](<repo_link>/actions/workflows/black.yaml/badge.svg)|
+|Bandit|security checks|![Bandit](https://github.com/davidslusser/spug_demo/actions/workflows/bandit.yaml/badge.svg)|
+|Black|code formatting|![Black](https://github.com/davidslusser/spug_demo/actions/workflows/black.yaml/badge.svg)|
 |Coveralls|code coverage status|[![Coverage Status](https://coveralls.io/repos/github/<repo_name>/badge.svg?branch=coveralls)](https://coveralls.io/github/<repo_name>?branch=coveralls)|
-|Mypy|static type checking|![Mypy](<repo_link>/actions/workflows/mypy.yaml/badge.svg)|
-|Pytest|unit testing|![Pytest](<repo_link>/actions/workflows/pytest.yaml/badge.svg)|
-|Radon|code complexity analysis|![Radon](<repo_link>/actions/workflows/radon.yaml/badge.svg)|
-|Ruff|static code analysis|![Ruff](<repo_link>/actions/workflows/ruff.yaml/badge.svg)|
-|Safety|security vulnerability checks|![Saftey](<repo_link>/actions/workflows/safety.yaml/badge.svg)|
+|Mypy|static type checking|![Mypy](https://github.com/davidslusser/spug_demo/actions/workflows/mypy.yaml/badge.svg)|
+|Pytest|unit testing|![Pytest](https://github.com/davidslusser/spug_demo/actions/workflows/pytest.yaml/badge.svg)|
+|Radon|code complexity analysis|![Radon](https://github.com/davidslusser/spug_demo/actions/workflows/radon.yaml/badge.svg)|
+|Ruff|static code analysis|![Ruff](https://github.com/davidslusser/spug_demo/actions/workflows/ruff.yaml/badge.svg)|
+|Safety|security vulnerability checks|![Saftey](https://github.com/davidslusser/spug_demo/actions/workflows/safety.yaml/badge.svg)|
 
 <br/>
 
